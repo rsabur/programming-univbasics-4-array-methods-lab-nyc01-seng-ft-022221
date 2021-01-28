@@ -1,4 +1,7 @@
 def using_include(array, element)
+  element1 = "wow"
+  element2 = "Tardis"
+  
   array = element1.include?
   array = element2.include?
 end
